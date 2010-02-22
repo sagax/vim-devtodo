@@ -2,7 +2,7 @@
 " Maintainer:   Jon Bernard
 
 if exists("g:loaded_devtodo") || &cp
-    "finish
+    finish
 endif
 let g:loaded_devtodo = 1
 
